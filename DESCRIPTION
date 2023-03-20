@@ -1,11 +1,10 @@
 Package: diannQC
 Type: Package
-Title: What the Package Does (Title Case)
+Title: Generate plots from statistics of protein processing and quantification for MS-based proteomics
 Version: 0.1.0
-Author: Who wrote it
-Maintainer: The package maintainer <yourself@somewhere.net>
-Description: More about what it does (maybe more than one line)
-    Use four spaces when indenting paragraphs within the Description.
-License: What license is it under?
+Date: 2023-03-20
+Author: Orr Shomroni
+Maintainer: Orr Shomroni <orr.shomroni@charite.de>
+Description: A set of functions importing statistical results from protein quantification using software DIA-NN, and using the value to both plot the statistical results and finding outlier samples.
+License: CC by 4.0
 Encoding: UTF-8
-LazyData: true
